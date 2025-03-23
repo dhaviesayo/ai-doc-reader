@@ -1,0 +1,11 @@
+
+Flask==2.3.3              # For the API server
+bs4    # For BeautifulSoup
+groq==0.4.0               # Groq API client
+pinecone-client==3.1.0    # Pinecone client (renamed from pinecone)
+huggingface-hub==0.22.2   # Hugging Face inference
+pypdf==4.1.0              # PDF processing (replaces PyPDF2)
+langchain-text-splitters  # Text splitting
+langchain-community       # Community tools
+langgraph      # Graph utilities
+
